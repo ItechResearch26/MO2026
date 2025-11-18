@@ -95,7 +95,7 @@
       <td><b>Математика </b><br><sub>Сызықтық алгебра негіздері (матрицалар, векторлар, операциялар, нормалар), ықтималдық теориясы негіздері, статистикалық таралымдар, деректерді нормализациялау әдістері </sub></td>
       <td>📝 <a href="https://drive.google.com/file/d/1NFkW0GOAHOpOCFv0MMjhC4bs7CA2tSGY/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/19kMQCj5kwiVADvOCjw8_DmAJBKh9LZN_g6G-CBoFnJw/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
   </tbody>
@@ -122,7 +122,7 @@
       <td><b>Pandas</b><br><sub>Series және DataFrame, индексация және таңдау, шарт бойынша сүзу, топтастыру (groupby), агрегаттау, кестелерді біріктіру (merge, join, concat)</sub></td>
       <td>📝 <a href="lectures/week06/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/19kMQCj5kwiVADvOCjw8_DmAJBKh9LZN_g6G-CBoFnJw/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
