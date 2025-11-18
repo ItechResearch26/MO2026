@@ -93,7 +93,7 @@
     <tr>
       <td align="center"><b>5</b></td>
       <td><b>Математика </b><br><sub>Сызықтық алгебра негіздері (матрицалар, векторлар, операциялар, нормалар), ықтималдық теориясы негіздері, статистикалық таралымдар, деректерді нормализациялау әдістері </sub></td>
-      <td>📝 <a href="lectures/week05/lecture.md">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1NFkW0GOAHOpOCFv0MMjhC4bs7CA2tSGY/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
