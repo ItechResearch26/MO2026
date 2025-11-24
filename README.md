@@ -123,7 +123,7 @@
       <td>📝 <a href="lectures/week06/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
       <td>📘 <a href="https://docs.google.com/document/d/19kMQCj5kwiVADvOCjw8_DmAJBKh9LZN_g6G-CBoFnJw/edit?usp=sharing">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>🧩 <a href="https://drive.google.com/file/d/101Kn5jkUN40Y9eTaF8hOMlFhUpPS2P6V/view?usp=sharing">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>7</b></td>
