@@ -129,8 +129,8 @@
       <td align="center"><b>7</b></td>
       <td><b>Деректерді зерттеу (EDA)</b><br><sub>Matplotlib және Seaborn визуализациясы (гистограммалар, нүктелік диаграммалар, boxplot, heatmap), деректерді тазарту, бос мәндерді өңдеу, ауытқуларды анықтау және өңдеу, санаттық белгілерді кодтау (one-hot, label encoding), шкалалау, Feature Engineering</sub></td>
       <td>📝 <a href="lectures/week07/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1cWlqfAOS7OiCaVoLiGVFtcFEax2y34Lf?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1wDzln4A1uAqw3aFMDqGf1r3fNDA3EEFoh4_KMAF5XRc/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
