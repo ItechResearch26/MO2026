@@ -136,9 +136,9 @@
     <tr>
       <td align="center"><b>8</b></td>
       <td><b>Сызықтық регрессия</b><br><sub>Сызықтық регрессия (жай және ridge), логистикалық регрессия, полиномдық белгілер, регуляризация және артық үйрену, Kaggle</sub></td>
-      <td>📝 <a href="lectures/week08/lecture.md">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1EBkmxffde_03wpJSObSm5laBXlN77uxS/view?usp=drive_link">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1jfE5_kPCWl6gTNkciL24EGQKclQKuxQ87uxdjjDfGds/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
