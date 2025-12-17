@@ -144,10 +144,10 @@
     <tr>
       <td align="center"><b>9</b></td>
       <td><b>KNN, SVM, Naive Bayes</b><br><sub>k-жақын көршілер, тірек вектор машиналары, наивті Байес классификаторы, шешім ағаштары, кластерлеу міндеттері және модельдері</sub></td>
-      <td>📝 <a href="lectures/week09/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1ACs7BzR1U2bUv7XhpUWRRYc2XSUC1pm7/view?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1fF-PVmHfI8iVo2Qc9pwHLhJz8SVbqyA4?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1Kg2I7Y191d74flOBtktdh2FFOncVmQR2/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1tMaINkcUvYa4AxhbCb_YnRT1WbCZvihs?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>10</b></td>
