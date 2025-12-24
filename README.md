@@ -152,10 +152,10 @@
     <tr>
       <td align="center"><b>10</b></td>
       <td><b>Оптимизация негіздері</b><br><sub>Градиенттік түсу, туындылар, шығын функциялары (MSE, cross-entropy, Hinge), L1/L2 регуляризация, Ньютон әдісі</sub></td>
-      <td>📝 <a href="lectures/week10/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1_ctX0ASUMTM3zBvxBN7FSoiHchYzISyz/view?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1k7ec0gZmjxziD1AyKKLq6OelG0637zjM?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1f5b8MbMN6riU2NT6rhzE2hlWUmlX2AFs/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
+      <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>11</b></td>
