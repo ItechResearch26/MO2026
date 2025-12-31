@@ -160,16 +160,16 @@
     <tr>
       <td align="center"><b>11</b></td>
       <td><b>Ансамбль әдістері</b><br><sub>Бэггинг, кездейсоқ орман (Random Forest), градиентті бустинг әдістері (XGBoost, LightGBM, CatBoost), стекинг</sub></td>
-      <td>📝 <a href="lectures/week13/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1GMXVnsa6u8XAi2zl5EtdnS4AF8KSyXPg/view?usp=sharing">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1RjTmrUo_NFaDjVNROEqiyym4lYrGzprR?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/19kf1MN4eAjGPYsHtDMOSiPV0lcuypEH-/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1Ba76fMCNzNKmKaGMwxT0EIXhNSZ6Jo-v?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>12</b></td>
       <td><b>Модель сапасы және оптимизация</b><br><sub>Метрикалар, кросс-валидация, гиперпараметрлерді іріктеу (Grid Search, Random Search, Optuna), теңгерімсіз кластармен жұмыс (SMOTE, class_weight), оптимизация</sub></td>
-      <td>📝 <a href="lectures/week14/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
+      <td>📝 <a href="">Дәріс жазбасы</a></td>
+      <td>💻 <a href="">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
