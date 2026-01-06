@@ -168,10 +168,10 @@
     <tr>
       <td align="center"><b>12</b></td>
       <td><b>Модель сапасы және оптимизация</b><br><sub>Метрикалар, кросс-валидация, гиперпараметрлерді іріктеу (Grid Search, Random Search, Optuna), теңгерімсіз кластармен жұмыс (SMOTE, class_weight), оптимизация</sub></td>
-      <td>📝 <a href="">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1vZ4P1k7gmPd4Z0IdG81M5kcDwe-CtHV9/view?usp=sharing">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1NIHWF5OEurLJR_bsGRWvZJzslqfYYwqO?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1CuRHPxkNvRoS5pQGD2gYFlLb_f8FcChQ/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
+      <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
