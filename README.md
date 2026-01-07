@@ -171,7 +171,7 @@
       <td>📝 <a href="https://drive.google.com/file/d/1vZ4P1k7gmPd4Z0IdG81M5kcDwe-CtHV9/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1NIHWF5OEurLJR_bsGRWvZJzslqfYYwqO?usp=sharing">Практика</a></td>
       <td>📘 <a href="https://docs.google.com/document/d/1CuRHPxkNvRoS5pQGD2gYFlLb_f8FcChQ/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
-      <td>🧩 <a href="">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1lSIPa6cLdUDlFRVG9l7Z7hPWzZOwSwzX?usp=drive_link">СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
