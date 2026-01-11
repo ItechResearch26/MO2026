@@ -475,42 +475,41 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>MO25-01</td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Профиль</a></td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Репо</a></td></tr>
+    <tr><td>MO25-01</td><td><a href="https://github.com/ZED-or-ZERO">Профиль</a></td><td><a href="https://github.com/ZED-or-ZERO/Notes-on-ML-Courses..git">Репо</a></td></tr>
     <tr><td>MO25-02</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-03</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-04</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-05</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-03</td><td><a href="https://github.com/EAnuarbek">Профиль</a></td><td><a href="https://github.com/EAnuarbek/AnuarbekE">Репо</a></td></tr>
+    <tr><td>MO25-04</td><td><a href="https://github.com/lya77s">Профиль</a></td><td><a href="https://github.com/lya77s/MLAI2025.git">Репо</a></td></tr>
+    <tr><td>MO25-05</td><td><a href="https://github.com/aza3831-art">Профиль</a></td><td><a href="https://github.com/aza3831-art/Machine-Learning">Репо</a></td></tr>
     <tr><td>MO25-06</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
     <tr><td>MO25-07</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-08</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-09</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-10</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-11</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-12</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-13</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-08</td><td><a href="https://github.com/karinabaltabay">Профиль</a></td><td><a href="https://github.com/karinabaltabay/KarinaML">Репо</a></td></tr>
+    <tr><td>MO25-09</td><td><a href="https://github.com/samallbeisenkhan">Профиль</a></td><td><a href="https://github.com/samallbeisenkhan/mynewrepo.git">Репо</a></td></tr>
+    <tr><td>MO25-10</td><td><a href="https://github.com/Assetbekkozha777">Профиль</a></td><td><a href="https://github.com/Assetbekkozha777/ASSET_NEW_REP">Репо</a></td></tr>
+    <tr><td>MO25-11</td><td><a href="https://github.com/Erezhep">Профиль</a></td><td><a href="https://github.com/Erezhep/machine-learning-itechresearch">Репо</a></td></tr>
+    <tr><td>MO25-12</td><td><a href="https://github.com/AnasZhumabay">Профиль</a></td><td><a href="https://github.com/AnasZhumabay/AnasHWML">Репо</a></td></tr>
+    <tr><td>MO25-13</td><td><a href="https://github.com/oculusidirisov-beep">Профиль</a></td><td><a href="https://github.com/oculusidirisov-beep/-3_-_-">Репо</a></td></tr>
     <tr><td>MO25-14</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-15</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-16</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-15</td><td><a href="https://github.com/togzhaan1">Профиль</a></td><td><a href="https://github.com/togzhaan1/ML">Репо</a></td></tr>
+    <tr><td>MO25-16</td><td><a href="https://github.com/zhannurkab123-dot">Профиль</a></td><td><a href="https://github.com/zhannurkab123-dot/mynewrepoZh">Репо</a></td></tr>
     <tr><td>MO25-17</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-18</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-19</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-20</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-18</td><td><a href="https://github.com/whiteraay">Профиль</a></td><td><a href="https://github.com/whiteraay/Itech_ML_course">Репо</a></td></tr>
+    <tr><td>MO25-19</td><td><a href="https://github.com/AlidaCreates">Профиль</a></td><td><a href="https://github.com/AlidaCreates/ML2025-TechOrda.git">Репо</a></td></tr>
+    <tr><td>MO25-20</td><td><a href="https://github.com/adiknur007">Профиль</a></td><td><a href="https://github.com/adiknur007/ML">Репо</a></td></tr>
     <tr><td>MO25-21</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-22</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-23</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-24</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-25</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-26</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-27</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-28</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-29</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-22</td><td><a href="https://github.com/aktolkynratovna-art">Профиль</a></td><td><a href="https://github.com/aktolkynratovna-art/aktolkyn-notes">Репо</a></td></tr>
+    <tr><td>MO25-23</td><td><a href="https://github.com/01laura89-coder">Профиль</a></td><td><a href="https://github.com/01laura89-coder/repositoryLaura">Репо</a></td></tr>
+    <tr><td>MO25-24</td><td><a href="https://github.com/daryyyyyn">Профиль</a></td><td><a href="https://github.com/daryyyyyn/ML_practice">Репо</a></td></tr>
+    <tr><td>MO25-25</td><td><a href="https://github.com/zhetybai88-collab">Профиль</a></td><td><a href="https://github.com/zhetybai88-collab/ML">Репо</a></td></tr>
+    <tr><td>MO25-26</td><td><a href="https://github.com/codepharm99">Профиль</a></td><td><a href="https://github.com/codepharm99/TechOrdaML-itresearch">Репо</a></td></tr>
+    <tr><td>MO25-27</td><td><a href="https://github.com/Tanirbergen777">Профиль</a></td><td><a href="https://github.com/Tanirbergen777?tab=repositories">Репо</a></td></tr>
+    <tr><td>MO25-28</td><td><a href="https://github.com/mnbavcl">Профиль</a></td><td><a href="https://github.com/mnbavcl/ml_repo">Репо</a></td></tr>
+    <tr><td>MO25-29</td><td><a href="https://github.com/zhannaxi">Профиль</a></td><td><a href="https://github.com/zhannaxi/ML-Course-Homeworks.git">Репо</a></td></tr>
     <tr><td>MO25-30</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-31</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO25-32</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-31</td><td><a href="https://github.com/aripova001">Профиль</a></td><td><a href="https://github.com/aripova001/Akmaral">Репо</a></td></tr>
+    <tr><td>MO25-32</td><td><a href="https://github.com/nrglvna">Профиль</a></td><td><a href="https://github.com/nrglvna/MLCourse">Репо</a></td></tr>
     <tr><td>MO25-33</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
   </tbody>
 </table>
-
 
 
 <!-- ===================== БАЙЛАНЫС ===================== -->
