@@ -202,10 +202,10 @@
     <tr>
       <td align="center"><b>13</b></td>
       <td><b>Нейрондық желілер негіздері</b><br><sub>Персептрон, көпқабатты желілер (MLP), активация функциялары, тура және кері таралу (forward/backward propagation)</sub></td>
-      <td>📝 <a href="lectures/week13/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1DEf85rcIU4WF2onIjycwLAbo7il1WqUt/view?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/12WejaAtUFGVv_M6PnuvfEVYR-0WuhfN1?usp=sharing">Практика</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1iVAHiWiZrc42jAxHpm3y_EKpPaU0SKXZ/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
+      <td>🧩 <a href="https://drive.google.com/drive/folders/12WejaAtUFGVv_M6PnuvfEVYR-0WuhfN1?usp=sharing">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>14</b></td>
