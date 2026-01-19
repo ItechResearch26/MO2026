@@ -210,7 +210,7 @@
     <tr>
       <td align="center"><b>14</b></td>
       <td><b>PyTorch негіздері</b><br><sub>Тензорлар мен операциялар, автоматты дифференциация, градиенттерді есептеу, бірінші нейрондық желіні құру және үйрету</sub></td>
-      <td>📝 <a href="lectures/week14/lecture.md">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1tnhMRZivErCZZ9F5rFu3ReSFWbZnadiP/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
