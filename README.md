@@ -211,7 +211,7 @@
       <td align="center"><b>14</b></td>
       <td><b>PyTorch негіздері</b><br><sub>Тензорлар мен операциялар, автоматты дифференциация, градиенттерді есептеу, бірінші нейрондық желіні құру және үйрету</sub></td>
       <td>📝 <a href="https://drive.google.com/file/d/1tnhMRZivErCZZ9F5rFu3ReSFWbZnadiP/view?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1Mg0ujeI4Wz1bIPeZF77ZuLIdYdVuToiw?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -219,7 +219,7 @@
       <td align="center"><b>15</b></td>
       <td><b>Сверткалық нейрондық желілер (CNN)</b><br><sub>Архитектура, conv қабаттар, активация функциялары, pooling, dropout, batch normalization, трансферлік оқыту, кескінді классификациялау</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/17uXGaM7Ya7EPMOkV1batKbuxrPnehbmW?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1x0xQqpCQ-u7-G7e9HFnFJnxoEq1kNLI6?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -227,7 +227,7 @@
       <td align="center"><b>16</b></td>
       <td><b>Қайталанатын нейрондық желілер (RNN)</b><br><sub>Тізбектермен жұмыс, LSTM және GRU архитектуралары, екі бағытты RNN, градиенттің жоғалуы мәселесі</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1d-90-3Tx5heCTkkYMKtw4cNbcZ4w9ABA?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1yhDf5Py_0fIM8Jw-xnOGJDZMw9DxN7_O?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -235,7 +235,7 @@
       <td align="center"><b>17</b></td>
       <td><b>Күрделі архитектуралар</b><br><sub>Автокодерлер (VAE), генеративті қарсыластар желілері (GAN), трансформерлер (self-attention, multi-head attention)</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1IENwmWIqv71bWRMVrCna7_uJrL41GZFk?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1N9FKrsc7mx7e-iLPeP0Ccs3sc6Svi0zN?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -269,7 +269,7 @@
       <td align="center"><b>18</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) – 1</b><br><sub>Токенизация, Bag of Words, TF-IDF, сөздердің векторлық көріністері (Word2Vec, GloVe), BERT эмбеддингтері, HuggingFace кітапханасы</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1kC1_whVxJjs-Dpd9QHXSBMB2-e-bARYt?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1guLhnaHv9a9qeblnaYf5JjBeBRAxRB50?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -277,7 +277,7 @@
       <td align="center"><b>19</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) – 2</b><br><sub>Тіл модельдерін fine-tuning, мәтінді классификациялау, атаулы нысандарды шығару (NER), мәтіндерді қысқарту, машиналық аударма, сұрақ-жауап жүйелері</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/158dqzK9asmEdwfxkGFHz-N4nKIzAS2R7?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1Nya8K6_3yt86EPiImHzGSlCyHV-eCCbP?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
@@ -285,7 +285,7 @@
       <td align="center"><b>20</b></td>
       <td><b>Компьютерлік көру (Computer Vision)</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1drqFMa6XeFpUFwsra2K8HQI-uxHT3-KA?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/17vSm6y0qsJsrK-_oF2fWpmPCmoxulAro?usp=drive_link">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
@@ -293,7 +293,7 @@
       <td align="center"><b>21</b></td>
       <td><b>Ұсыныс жүйелері – 1</b><br><sub>Коллаборативті фильтрация, ALS алгоритмі, SLIM әдісі, implicit feedback-пен жұмыс</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1GVXfs5hvCGYnam-wEiGycj7rY8C1mqzj?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/19J_0fV3G-AUawurwT11EgsUV6U_B1U1g?usp=drive_link">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
@@ -301,7 +301,7 @@
       <td align="center"><b>22</b></td>
       <td><b>Ұсыныс жүйелері – 2</b><br><sub>Матрицалық жіктеу (SVD, NMF), контенттік фильтрация, гибридті тәсілдер, нейрожелі автоэнкодерлер, бағалау метрикалары (diversity, novelty, coverage, serendipity)</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1KvbQTmQ9I8eiJMRNiWa03VwOYouXFBCc?usp=sharing">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1OvWIQpbO_8eOmASy8pHVlOR7OdSCO8oi?usp=drive_link">Практика</a></td>
       <td>📘 <a href="#">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
