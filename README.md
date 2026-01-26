@@ -212,7 +212,7 @@
       <td><b>PyTorch негіздері</b><br><sub>Тензорлар мен операциялар, автоматты дифференциация, градиенттерді есептеу, бірінші нейрондық желіні құру және үйрету</sub></td>
       <td>📝 <a href="https://drive.google.com/file/d/1tnhMRZivErCZZ9F5rFu3ReSFWbZnadiP/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1Mg0ujeI4Wz1bIPeZF77ZuLIdYdVuToiw?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1KcCCfLiWGhhQ0eSCG2I6OJZqZNe8dh5N/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
@@ -220,7 +220,7 @@
       <td><b>Сверткалық нейрондық желілер (CNN)</b><br><sub>Архитектура, conv қабаттар, активация функциялары, pooling, dropout, batch normalization, трансферлік оқыту, кескінді классификациялау</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/17uXGaM7Ya7EPMOkV1batKbuxrPnehbmW?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1x0xQqpCQ-u7-G7e9HFnFJnxoEq1kNLI6?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1wycl0oi6EoF0hp1nMjekUXLbBgmbfsm7/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@
       <td><b>Қайталанатын нейрондық желілер (RNN)</b><br><sub>Тізбектермен жұмыс, LSTM және GRU архитектуралары, екі бағытты RNN, градиенттің жоғалуы мәселесі</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1d-90-3Tx5heCTkkYMKtw4cNbcZ4w9ABA?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1yhDf5Py_0fIM8Jw-xnOGJDZMw9DxN7_O?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1NE9TQ-BOvQzfXMMkaVnzl3RRvfeUFXJCZmzEFoN0AmY/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
