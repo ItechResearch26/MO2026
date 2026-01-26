@@ -213,7 +213,7 @@
       <td>📝 <a href="https://drive.google.com/file/d/1tnhMRZivErCZZ9F5rFu3ReSFWbZnadiP/view?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1Mg0ujeI4Wz1bIPeZF77ZuLIdYdVuToiw?usp=drive_link">Практика</a></td>
       <td>📘 <a href="https://docs.google.com/document/d/1KcCCfLiWGhhQ0eSCG2I6OJZqZNe8dh5N/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1bSI42PbftbSTt4tSHhMXu6svnZ-a8oIV?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>15</b></td>
@@ -221,7 +221,7 @@
       <td>📝 <a href="https://drive.google.com/drive/folders/17uXGaM7Ya7EPMOkV1batKbuxrPnehbmW?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1x0xQqpCQ-u7-G7e9HFnFJnxoEq1kNLI6?usp=drive_link">Практика</a></td>
       <td>📘 <a href="https://docs.google.com/document/d/1wycl0oi6EoF0hp1nMjekUXLbBgmbfsm7/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>16</b></td>
