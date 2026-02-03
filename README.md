@@ -226,9 +226,9 @@
     <tr>
       <td align="center"><b>16</b></td>
       <td><b>Қайталанатын нейрондық желілер (RNN)</b><br><sub>Тізбектермен жұмыс, LSTM және GRU архитектуралары, екі бағытты RNN, градиенттің жоғалуы мәселесі</sub></td>
-      <td>📝 <a href="https://drive.google.com/drive/folders/1d-90-3Tx5heCTkkYMKtw4cNbcZ4w9ABA?usp=sharing">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/file/d/1f1YoSf0u9CLtyhH8UIYi8Nm1BUfN1a3Z/view?usp=drive_link">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1yhDf5Py_0fIM8Jw-xnOGJDZMw9DxN7_O?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="https://docs.google.com/document/d/1NE9TQ-BOvQzfXMMkaVnzl3RRvfeUFXJCZmzEFoN0AmY/edit?usp=sharing">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/1j0XVki2-jKYDPSavC-Y-1rsD_zDYnBNB/edit?usp=drive_link&ouid=103776375771677265298&rtpof=true&sd=true">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
