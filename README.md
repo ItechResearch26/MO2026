@@ -278,8 +278,8 @@
       <td><b>Табиғи тілді өңдеу (NLP) – 2</b><br><sub>Тіл модельдерін fine-tuning, мәтінді классификациялау, атаулы нысандарды шығару (NER), мәтіндерді қысқарту, машиналық аударма, сұрақ-жауап жүйелері</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/158dqzK9asmEdwfxkGFHz-N4nKIzAS2R7?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1Nya8K6_3yt86EPiImHzGSlCyHV-eCCbP?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://colab.research.google.com/drive/1Y1FPT16kQmwkNMXm3QN-m8SI-E4_smDA?usp=drive_link">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1Y1FPT16kQmwkNMXm3QN-m8SI-E4_smDA?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>20</b></td>
