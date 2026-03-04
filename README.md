@@ -290,6 +290,14 @@
       <td>🧩 <a href="https://drive.google.com/file/d/1XvyFqTP31iFqPSwPNDhZy8PA0RVfv7-l/view?usp=drive_link">ПРОЕКТ</a></td>
     </tr>
     <tr>
+      <td align="center"><b>20+</b></td>
+      <td><b>Компьютерлік көру (2)</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
+      <td>📝 <a href="">Дәріс жазбасы</a></td>
+      <td>💻 <a href="">Практика</a></td>
+      <td>📘 <a href="">СӨЖ</a></td>
+      <td>🧩 <a href="">ПРОЕКТ</a></td>
+    </tr>
+    <tr>
       <td align="center"><b>21</b></td>
       <td><b>Ұсыныс жүйелері – 1</b><br><sub>Коллаборативті фильтрация, ALS алгоритмі, SLIM әдісі, implicit feedback-пен жұмыс</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1GVXfs5hvCGYnam-wEiGycj7rY8C1mqzj?usp=sharing">Дәріс жазбасы</a></td>
