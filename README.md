@@ -287,7 +287,7 @@
       <td>📝 <a href="https://drive.google.com/drive/folders/1drqFMa6XeFpUFwsra2K8HQI-uxHT3-KA?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/17vSm6y0qsJsrK-_oF2fWpmPCmoxulAro?usp=drive_link">Практика</a></td>
       <td>📘 <a href="https://colab.research.google.com/drive/14kIA6eznaNUze4hqHwDUpvGSsOCyfFIH?usp=drive_link">СӨЖ</a></td>
-      <td>🧩 <a href="https://drive.google.com/file/d/1XvyFqTP31iFqPSwPNDhZy8PA0RVfv7-l/view?usp=drive_link">ПРОЕКТ</a></td>
+      <td>🧩 <a href="https://drive.google.com/file/d/1XvyFqTP31iFqPSwPNDhZy8PA0RVfv7-l/view?usp=drive_link">ПРОЕКТ-МИД</a></td>
     </tr>
     <tr>
       <td align="center"><b>20+</b></td>
