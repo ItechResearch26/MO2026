@@ -292,8 +292,8 @@
     <tr>
       <td align="center"><b>20+</b></td>
       <td><b>Компьютерлік көру (2)</b><br><sub> Объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
-      <td>📝 <a href="">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1KXt0VS6zX1gi8hQ24Ka9ZIrwyqqjPtyd?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1OiuuEbIVbeWV2mgFmMOlW7HIJux-C7Bi?usp=drive_link">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">CӨЖ</a></td>
     </tr>
@@ -342,8 +342,8 @@
     <tr>
       <td align="center"><b>23</b></td>
       <td><b>ML-жобаны ұйымдастыру</b><br><sub>Құрылым, рөлдер, құралдар. Зерттеу әдістемесі. Модель интерпретациясы және ML-ді этикалық қолдану</sub></td>
-      <td>📝 <a href="">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1KXt0VS6zX1gi8hQ24Ka9ZIrwyqqjPtyd?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1OiuuEbIVbeWV2mgFmMOlW7HIJux-C7Bi?usp=drive_link">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">СӨЖ</a></td>
     </tr>
