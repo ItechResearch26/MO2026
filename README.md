@@ -292,8 +292,8 @@
     <tr>
       <td align="center"><b>20+</b></td>
       <td><b>Компьютерлік көру (2)</b><br><sub> Объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
-      <td>📝 <a href="https://drive.google.com/drive/folders/1KXt0VS6zX1gi8hQ24Ka9ZIrwyqqjPtyd?usp=drive_link">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com/drive/folders/1OiuuEbIVbeWV2mgFmMOlW7HIJux-C7Bi?usp=drive_link">Практика</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1NbCuuGSJ91gMcjOHpNz_GWsBT7-iOwFf?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1LBIg-d5H0J3qIL3quTHhgYjqlVOtltOE?usp=drive_link">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">CӨЖ</a></td>
     </tr>
@@ -375,8 +375,8 @@
     <tr>
       <td align="center"><b>25</b></td>
       <td><b>Финалдық жобаны қорғау</b><br><sub>шешім архитектурасын түсіндіру, белгілер маңыздылығын талдау, ML терминологиясын қолдану арқылы нәтижелерді интерпретациялау (bias-variance, validation gap, AUC, F1, underfitting/overfitting), бизнес салдары, модель шектеулерін сыни бағалау </sub></td>
-      <td>📝 <a href="lectures/week25/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1NbCuuGSJ91gMcjOHpNz_GWsBT7-iOwFf?usp=drive_link">Дәріс жазбасы</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1LBIg-d5H0J3qIL3quTHhgYjqlVOtltOE?usp=drive_link">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>26</b></td>
