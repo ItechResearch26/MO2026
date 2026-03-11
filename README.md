@@ -294,8 +294,8 @@
       <td><b>Компьютерлік көру (2)</b><br><sub> Объектілерді анықтау және бақылау, кескін генерациясы, ML-дің практикалық қолданылуы</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1NbCuuGSJ91gMcjOHpNz_GWsBT7-iOwFf?usp=drive_link">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1LBIg-d5H0J3qIL3quTHhgYjqlVOtltOE?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="https://drive.google.com/file/d/1crXWVhuujApyJHxMWwrXy-dP5T4k-qc4/view?usp=drive_link">СӨЖ</a></td>
-      <td>🧩 <a href="https://drive.google.com/file/d/1crXWVhuujApyJHxMWwrXy-dP5T4k-qc4/view?usp=drive_link">CӨЖ</a></td>
+      <td>📘 <a href="https://drive.google.com/file/d/1crXWVhuujApyJHxMWwrXy-dP5T4k-qc4/view?usp=sharing">СӨЖ</a></td>
+      <td>🧩 <a href="https://drive.google.com/file/d/1crXWVhuujApyJHxMWwrXy-dP5T4k-qc4/view?usp=sharing">CӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>21</b></td>
