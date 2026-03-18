@@ -302,8 +302,8 @@
       <td><b>Ұсыныс жүйелері – 1</b><br><sub>Коллаборативті фильтрация, ALS алгоритмі, SLIM әдісі, implicit feedback-пен жұмыс</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1GVXfs5hvCGYnam-wEiGycj7rY8C1mqzj?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/19J_0fV3G-AUawurwT11EgsUV6U_B1U1g?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="">СӨЖ</a></td>
-      <td>🧩 <a href="">СӨЖ</a></td>
+      <td>📘 <a href="https://colab.research.google.com/drive/1iT9MKwl4zfOfWYHwwlfSPaan5Z4rifrL?usp=drive_link">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1iT9MKwl4zfOfWYHwwlfSPaan5Z4rifrL?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>22</b></td>
