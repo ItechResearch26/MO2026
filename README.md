@@ -310,8 +310,8 @@
       <td><b>Ұсыныс жүйелері – 2</b><br><sub>Матрицалық жіктеу (SVD, NMF), контенттік фильтрация, гибридті тәсілдер, нейрожелі автоэнкодерлер, бағалау метрикалары (diversity, novelty, coverage, serendipity)</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1KvbQTmQ9I8eiJMRNiWa03VwOYouXFBCc?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1OvWIQpbO_8eOmASy8pHVlOR7OdSCO8oi?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://drive.google.com/file/d/1ZHocLFO-cNI2JT6xE9p7RYd7MVWpiEOO/view?usp=drive_link">СӨЖ</a></td>
+      <td>🧩 <a href="https://drive.google.com/file/d/1ZHocLFO-cNI2JT6xE9p7RYd7MVWpiEOO/view?usp=drive_link">СӨЖ</a></td>
     </tr>
   </tbody>
 </table>
