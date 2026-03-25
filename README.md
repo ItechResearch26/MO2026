@@ -46,7 +46,7 @@
 <div class="books-section">
   <h2>📗 Финалдық жоба тақырыптары</h2>
     <p>
-    👉 <a href="https://docs.google.com/spreadsheets/d/1J_VaMleSsyRDdZ5hDF2mqtxZ7CsltuHbjLU_jeikRZI/edit?usp=sharing" target="_blank" style="font-weight: bold; font-size: 1.1em;">Әдебиеттерді ашу</a>
+    👉 <a href="https://docs.google.com/spreadsheets/d/1J_VaMleSsyRDdZ5hDF2mqtxZ7CsltuHbjLU_jeikRZI/edit?usp=sharing" target="_blank" style="font-weight: bold; font-size: 1.1em;">Тізімді ашу</a>
   </p>
 </div>
 
