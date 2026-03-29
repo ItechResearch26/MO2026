@@ -353,8 +353,8 @@
       <td><b>ML-жобаны ұйымдастыру</b><br><sub>Құрылым, рөлдер, құралдар. Зерттеу әдістемесі. Модель интерпретациясы және ML-ді этикалық қолдану</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1KXt0VS6zX1gi8hQ24Ka9ZIrwyqqjPtyd?usp=drive_link">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1OiuuEbIVbeWV2mgFmMOlW7HIJux-C7Bi?usp=drive_link">Практика</a></td>
-      <td>📘 <a href="">СӨЖ</a></td>
-      <td>🧩 <a href="">СӨЖ</a></td>
+      <td>📘 <a href="https://drive.google.com/file/d/1fTRdWJL_QBlPTkruix1fpHMUIYOd8smi/view?usp=drive_link">СӨЖ</a></td>
+      <td>🧩 <a href="https://drive.google.com/file/d/1fTRdWJL_QBlPTkruix1fpHMUIYOd8smi/view?usp=drive_link">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>24</b></td>
