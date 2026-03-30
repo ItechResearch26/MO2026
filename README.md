@@ -50,6 +50,13 @@
   </p>
 </div>
 
+<div class="books-section">
+  <h2>📗 Тест нұсқаларына дайындық</h2>
+    <p>
+    👉 <a href="https://quizlet.com/kz/1161825822/ml26-testbase-flash-cards/?i=4sapwb&x=1jqt" target="_blank" style="font-weight: bold; font-size: 1.1em;">Тізімді ашу</a>
+  </p>
+</div>
+
 
 
 <!-- ===================== 1-БӨЛІМ ===================== -->
