@@ -51,9 +51,9 @@
 </div>
 
 <div class="books-section">
-  <h2>📗 Тест нұсқаларына дайындық</h2>
+  <h2>📗 Финалдық жобалар мен кеңестер репо (+тестке дайындық)</h2>
     <p>
-    👉 <a href="https://quizlet.com/kz/1161825822/ml26-testbase-flash-cards/?i=4sapwb&x=1jqt" target="_blank" style="font-weight: bold; font-size: 1.1em;">Тізімді ашу</a>
+    👉 <a href="https://github.com/ItechResearch26/MO2026_Finals" target="_blank" style="font-weight: bold; font-size: 1.1em;">Тізімді ашу</a>
   </p>
 </div>
 
