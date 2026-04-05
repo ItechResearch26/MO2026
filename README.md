@@ -366,7 +366,7 @@
     <tr>
       <td align="center"><b>24</b></td>
       <td><b>Бизнес-міндеттерді ML-мен сипаттау</b><br><sub>Метрикаларды таңдау, EDA және feature engineering, алдын ала өңдеу пайплайны, baseline модельдер, эксперимент құжаттамасы, гипотеза тексеру стратегиясы</sub></td>
-      <td>📝 <a href="">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1jexEGTrLjSQmsiqRYI1imeJmN8x046E6?usp=drive_link">Дәріс жазбасы</a></td>
       <td>💻 <a href="">Практика</a></td>
       <td>📘 <a href="">СӨЖ</a></td>
       <td>🧩 <a href="">СӨЖ</a></td>
@@ -397,7 +397,7 @@
     <tr>
       <td align="center"><b>26</b></td>
       <td><b>Финалдық жобаны қорғау</b><br><sub> Студент қалауы бойынша таңдалған бизнес міндетке бағытталған толыққанды машиналық оқыту моделін жасап (кемінде 2 модельді салыстыру), оны жан-жақты талдап, презентация түрінде ұсыну </sub></td>
-      <td>🎤 <a href="lectures/week26/defense.md">Дәріс жазбасы</a></td>
+      <td>🎤 <a href="https://drive.google.com/drive/folders/1AEyaHcz3dTFXc1zfua173qBboRaXO7pl?usp=drive_link">Дәріс жазбасы</a></td>
       <td>🎯 <b>Финалдық қорғау күні</b></td>
     </tr>
   </tbody>
