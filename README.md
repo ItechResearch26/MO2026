@@ -367,7 +367,7 @@
       <td align="center"><b>24</b></td>
       <td><b>Бизнес-міндеттерді ML-мен сипаттау</b><br><sub>Метрикаларды таңдау, EDA және feature engineering, алдын ала өңдеу пайплайны, baseline модельдер, эксперимент құжаттамасы, гипотеза тексеру стратегиясы</sub></td>
       <td>📝 <a href="https://drive.google.com/drive/folders/1jexEGTrLjSQmsiqRYI1imeJmN8x046E6?usp=drive_link">Дәріс жазбасы</a></td>
-      <td>💻 <a href="">Практика</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1I21y_PQvWlJixl-5ZXVSlF9jVnuzmaYc?usp=drive_link">Практика</a></td>
       <td>📘 <a href="https://drive.google.com/file/d/11vAJ0MZ9Sv-g-3ryGBlRvtxa3cLB3hMY/view?usp=drive_link">СӨЖ</a></td>
       <td>🧩 <a href="https://drive.google.com/file/d/11vAJ0MZ9Sv-g-3ryGBlRvtxa3cLB3hMY/view?usp=drive_link">СӨЖ</a></td>
     </tr>
