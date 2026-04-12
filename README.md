@@ -398,7 +398,7 @@
       <td align="center"><b>26</b></td>
       <td><b>Финалдық жобаны қорғау</b><br><sub> Студент қалауы бойынша таңдалған бизнес міндетке бағытталған толыққанды машиналық оқыту моделін жасап (кемінде 2 модельді салыстыру), оны жан-жақты талдап, презентация түрінде ұсыну </sub></td>
       <td>🎤 <a href="https://drive.google.com/drive/folders/1AEyaHcz3dTFXc1zfua173qBboRaXO7pl?usp=drive_link">Дәріс жазбасы</a></td>
-      <td>🎯 <b>Финалдық қорғау күні</b></td>
+      <td>🎯 <a href="https://drive.google.com/drive/folders/1KIfS8a63slNlL4flPZ1bWOTDuM0J1LjO?usp=sharingы">Финал</a></td>
     </tr>
   </tbody>
 </table>
